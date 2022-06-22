@@ -1,2 +1,2 @@
 # Python-Projects
-These are projects that I learned doing in classes and my own time
+These are projects that I started to learn with help on my own time.
